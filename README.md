@@ -1,12 +1,48 @@
-# React + Vite
+Weather App
+📌 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weather App is a web application built with React that allows users to check real-time weather information for any city. The application fetches weather data from a weather API and displays details such as temperature, humidity, wind speed, and weather conditions in a clean and responsive interface.
 
-Currently, two official plugins are available:
+This project demonstrates API integration, React components, and dynamic data rendering.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## Expanding the ESLint configuration
+🌤 Real-time Weather Data
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔎 Search Weather by City
+
+🌡 Temperature Display
+
+💧 Humidity Information
+
+🌬 Wind Speed Details
+
+📱 Responsive Design
+
+⚡ Fast and Dynamic UI using React
+
+🛠 Tech Stack
+
+Frontend: React.js
+
+Language: JavaScript (ES6+)
+
+API: OpenWeather API / Weather API
+
+Styling: CSS / Bootstrap / Tailwind
+
+State Management: React Hooks (useState, useEffect)
+
+💡 Future Improvements
+
+Add 5-day weather forecast
+
+Detect user location automatically
+
+Add weather icons and animations
+
+Dark / Light mode support
+
+👨‍💻 Author
+
+Developed by Priya Guru
